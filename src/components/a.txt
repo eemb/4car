@@ -1,0 +1,5 @@
+"#3eb93b"
+      : secondary
+      ? "#E4D442"
+      : terciary
+      ? "#EB4D4D"
